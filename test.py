@@ -12,7 +12,7 @@ def ReverseArray(arr,n):
 
         
 
-arr = [1,2,3,4,5,6]
+arr = [1]
 n = len(arr)
 
 print(ReverseArray(arr,n))
